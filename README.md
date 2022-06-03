@@ -2,3 +2,4 @@
 
  - [x] [Exercício 01 - Criar um vetor A com 5 elementos inteiros.Construir um vetor B de mesmo tipo e tamanho e com os "mesmos" elementos do vetor A, ou seja , B[i] = A[i]. ](https://github.com/Giovani-Gomes/Exercicio_4-Java/tree/main/Exerc%C3%ADcio%2001)
  - [x] [Exercício 02 - Criar um vetor A com 8 elementos inteiros.Contruir um vetor B de mesmo tipo e tamanho com os elementos do vetor A multiplicados por 2, ou seja: B[i] = A[i] * 2.](https://github.com/Giovani-Gomes/Exercicio_4-Java/tree/main/Exerc%C3%ADcio%2002)
+ - [x] [Exercício 03 - Criar um vetor A com 15 elementos inteiros.Construir um vetor B de mesmo tamanho, sendo que cada elemento do vetor B deverá ser a raiz quadrada do respectivo elementode A, ou seja: B[i] = sqt(A[i]) ](https://github.com/Giovani-Gomes/Exercicio_4-Java/tree/main/Exerc%C3%ADcio%2003)
